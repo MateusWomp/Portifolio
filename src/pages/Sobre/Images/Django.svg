@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="111" height="111" viewBox="0 0 111 111" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(0.13 0 0 0.13 55.5 55.17)"  >
+<g style=""   >
+		<g transform="matrix(3.13 0 0 3.13 0.64 0.64)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(9,46,32); fill-rule: nonzero; opacity: 1;"  x="-128" y="-128" rx="28" ry="28" width="256" height="256" />
+</g>
+		<g transform="matrix(3.13 0 0 3.13 -29.12 29.93)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,253); fill-rule: nonzero; opacity: 1;"  transform=" translate(-118.57, -137.44)" d="M 186.377012 94.197636 L 186.377012 160.424478 C 186.377012 183.243286 184.707519 194.187745 179.699037 203.649406 C 175.060358 212.741266 168.937684 218.490548 156.323731 224.798721 L 129.794937 212.183571 C 142.410087 206.247593 148.531564 201.05481 152.427049 193.074749 C 156.509231 184.91278 157.808923 175.451119 157.808923 150.593015 L 157.808923 94.197636 L 186.377012 94.197636 Z M 140.928486 50.0787207 L 140.928486 182.316986 C 126.272844 185.099476 115.512688 186.212472 103.826231 186.212472 C 68.9487718 186.212472 50.7686431 170.445031 50.7686431 140.205054 C 50.7686431 111.079269 70.0629644 92.1583404 99.9295492 92.1583404 C 104.567032 92.1583404 108.091519 92.5281423 112.359199 93.6411381 L 112.359199 50.0787207 L 140.928486 50.0787207 Z M 102.713236 115.160254 C 88.243093 115.160254 79.8944275 124.065418 79.8944275 139.647359 C 79.8944275 154.860696 87.8720944 163.208164 102.527736 163.208164 C 105.680028 163.208164 108.278215 163.022665 112.359199 162.467364 L 112.359199 116.643052 C 109.020212 115.531253 106.237722 115.160254 102.713236 115.160254 Z M 186.377012 50.2307105 L 186.377012 79.5419941 L 157.808923 79.5419941 L 157.808923 50.2307105 L 186.377012 50.2307105 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
