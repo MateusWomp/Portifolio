@@ -6,6 +6,8 @@ import react from './Images/icon-react.svg'
 import sql from './Images/icon-sql.svg'
 import Python from './Images/Python.svg'
 import Django from './Images/Django.svg'
+import Flask from './Images/icon-flask.svg'
+
 
 function Sobre(){
     return(
@@ -30,6 +32,9 @@ function Sobre(){
                 <img src={sql} alt='Icone do SQL'/>
                 <img src={Python} alt='Icone do PYTHON'/>
                 <img src={Django} alt='Icone do DJANGO'/>
+              <div className={styles.icones2}>
+                <img src={Flask} alt='Icone do DJANGO'/>  
+              </div>
               </div>
           </div>
         </section>

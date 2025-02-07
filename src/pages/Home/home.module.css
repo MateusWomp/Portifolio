@@ -5,7 +5,7 @@
     
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .home img{
     height: 300px;
@@ -38,4 +38,19 @@
 }
 .btn_red:hover {
     background-color: var(--primary);
+}
+@media (max-width: 768px){
+    .home{
+        flex-direction: column;
+    }
+}
+@media (max-width: 480px){
+    .home p{
+        font-size: 2rem;
+    }
+    .home img{
+        max-width: 100%;
+        height: auto;
+        padding-inline: 2.5rem;
+    }
 }

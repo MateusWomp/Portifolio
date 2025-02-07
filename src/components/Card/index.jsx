@@ -2,6 +2,7 @@ import { SiFlask } from 'react-icons/si'
 import styles from './Card.module.css'
 import { FaCss3Alt, FaHtml5, FaPython } from 'react-icons/fa'
 import { BsArrowRight } from 'react-icons/bs'
+import { TbSql } from 'react-icons/tb'
 
 function Card({name, description, html_url}){
     return(
@@ -14,6 +15,7 @@ function Card({name, description, html_url}){
                     <FaCss3Alt/>
                     <FaPython/>
                     <SiFlask/>
+                    <TbSql/>
                 </div>
                 <a href={html_url} target='_blank' rel="noopenner norefferer" className={styles.botao}>
                     <BsArrowRight/>
